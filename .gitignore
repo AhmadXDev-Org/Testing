@@ -1,0 +1,17 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excel files (samples)
+*_Sample.xlsx
+
+# Processing scripts (temporary)
+download_excel.py
+create_sample_excel.py
+read_excel.py
